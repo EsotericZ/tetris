@@ -1,5 +1,5 @@
 const Cell = ({ type }) => (
-    <div></div>
+    <div>Cell</div>
 );
 
 export default Cell;
