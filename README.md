@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Tetris app made with react! Part of the gaming library
+Try today! What's your highscore?
 
 ## Available Scripts
 
