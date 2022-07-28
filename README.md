@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Tetris app made with react! Part of the gaming library
 Try today! What's your highscore?
 
+## Future Features
+Add high score table
+
 ## Available Scripts
 
 In the project directory, you can run:
