@@ -6,7 +6,8 @@ Tetris app made with react! Part of the gaming library
 Try today! What's your highscore?
 
 ## Future Features
-Add high score table
+Add high score tablei
+Use js logic to add it to the local storage
 
 ## Available Scripts
 
