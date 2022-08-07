@@ -8,6 +8,7 @@ Try today! What's your highscore?
 ## Future Features
 Add high score tablei
 Use js logic to add it to the local storage
+pull in week  04 
 
 ## Available Scripts
 
