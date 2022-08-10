@@ -2,6 +2,7 @@
 
 ## Description 
 The classic game of Tetris built using React. Note - this was built with the help of an instructional video.
+Where did all my notes go
 
 ## Table of Contents
 - [Installation](#Installation)
